@@ -9,9 +9,7 @@ o	Time-Series Analysis: Extract features from sensor data for meaningful insight
 
 o	Feature Engineering: Handle missing values, normalize data, and design features that capture temporal dependencies.
 
-o	Machine Learning Models: Use algorithms like Random Forests, Gradient Boosting, or Support Vector Machines (SVMs).
-
-o	Deep Learning Models: Implement architectures such as Long Short-Term Memory (LSTMs), Gated Recurrent Units (GRUs), or Convolutional Neural Networks (CNNs) for sequential data processing.
+o	Machine Learning Models: Use algorithms like Random Forests, Gradient Boosting.
 
 o	Ensemble Methods: Combine predictions from multiple models to improve accuracy and robustness.
 
