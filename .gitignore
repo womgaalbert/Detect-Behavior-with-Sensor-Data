@@ -1,8 +1,5 @@
 cmi-detect-behavior-with-sensor-data.zip 
-cmi-detect-behavior-with-sensor-data.zip 
-cmi-detect-behavior-with-sensor-data.zip 
-train.xlsx 
-test.xlsx 
-train_demographics.xlsx 
-test_demographics.xlsx 
+train.csv 
+test.csv 
+train_demographics.csv 
 test_demographics.csv 
